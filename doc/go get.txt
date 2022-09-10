@@ -1,0 +1,16 @@
+
+go get github.com/go-errors/errors
+ -x : 详细信息
+ -d : 只下载，不安装
+ -fix : 先修正代码，安装
+ -u : update
+-insecure
+允许使用不安全的 HTTP 方式进行下载操作
+-v  
+显示操作流程的日志及信息，方便检查错误
+
+
+The "go-outline" command is not available. Run "go get -v github.com/ramya-rao-a/go-outline" to install.
+
+The "dlv" command is not available. Run "go get -v github.com/go-delve/delve/cmd/dlv" to install.
+
