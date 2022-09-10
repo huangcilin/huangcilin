@@ -1,2 +1,6 @@
 C/C++程序员必须会CMake
 https://zhuanlan.zhihu.com/p/360501372
+
+
+https://www.zhihu.com/question/64554054
+GitHub 有哪些用 CMake 的工程管理优雅的 C/C++ 开源项目？
